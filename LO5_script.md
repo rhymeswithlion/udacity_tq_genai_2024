@@ -32,11 +32,11 @@
 
 "2. **Lack of Understanding:** AI doesn't 'understand' content the way humans do. It might generate grammatically correct but nonsensical sentences. Like a parrot that speaks but doesn't comprehend."
 
-"3. **Ethical Concerns:** Deepfakes and misinformation—tools can be misused, leading to serious ethical dilemmas."
+"3. **Ethical Concerns:** Deepfakes and misinformation—tools can be misused, purposefully or not, leading to serious ethical dilemmas."
 
 **Examples and Analogies:**
 
-"Think of Generative AI as a powerful assistant. Phenomenal at handling tasks but requiring guidance. Leave it unsupervised, and you might get a beautifully written email sent to the wrong person!"
+"Think of Generative AI as a powerful but clumsy assistant. Phenomenal at handling tasks but requiring guidance. Leave it unsupervised, and you might get a beautifully written email sent to the wrong person!"
 
 **Comic Relief:**
 

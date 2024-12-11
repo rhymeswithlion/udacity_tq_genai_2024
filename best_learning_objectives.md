@@ -18,7 +18,7 @@ After reviewing all the Learning Objectives and their scripts, some redundancies
 
    *Demonstrates real-world use cases, making the learning relevant and practical.*
 
-5. **Analyze the strengths and limitations of Generative AI tools and their implementation in business processes.**
+5. **Analyze the strengths and limitations of Generative AI tools.**
 
    *Combines previous objectives to provide a comprehensive view of both the capabilities and challenges.*
 

@@ -5,11 +5,11 @@
 | **Duration** | 60 mins of video |
 | **Relevant School(s)** | School of AI |
 | **Prerequisite Skills** | Basic understanding of business processes and technology |
-| **Description** | This course equips **business and technology professionals and executives** with essential knowledge about Generative AI, its real-world applications, and its potential to revolutionize various industries. |
+| **Description** | This course equips **business and technology professionals and leaders** with essential knowledge about Generative AI, its real-world applications, and its potential to revolutionize various industries. |
 
 # Description of TQ Content and Its Target Audience
 
-This course is tailored for **business and technology professionals and executives** who are curious about artificial intelligence (AI) and its potential impact on their business. It caters to professionals, enthusiasts, leaders, and decision-makers who want to understand how AI can enhance organizational processes and boost personal productivity. The content bridges the gap between technical concepts and practical business applications, making it ideal for those who may be hesitant about AI's relevance to their work but are excited about its innovative possibilities.
+This course is tailored for **business and technology professionals and leaders** who are curious about artificial intelligence (AI) and its potential impact on their business. It caters to professionals, enthusiasts, and decision-makers who want to understand how AI can enhance organizational processes and boost personal productivity. The content bridges the gap between technical concepts and practical business applications, making it ideal for those who may be hesitant about AI's relevance to their work but are excited about its innovative possibilities.
 
 The course demystifies AI concepts, offers insights into the benefits and limitations of these technologies, and provides a strategic framework for integrating AI into business environments to spur innovation. Through real-world examples and case studies, learners will gain a comprehensive understanding of how AI and machine learning (ML) tools are reshaping industries and creating new opportunities for growth and efficiency.
 
@@ -39,7 +39,7 @@ After completing this course, students will be able to:
 
 6. **Discuss societal and ethical considerations associated with AI, including potential job displacement, regulatory concerns, bias, fairness, and transparency.**
 
-   *Consolidates topics on societal impact and ethics for a thorough discussion on responsible AI use.*
+   *Covers topics on societal impact and ethics for a thorough discussion on responsible AI use.*
 
 7. **Explore the paradigm shift in AI application development brought about by Foundation models (e.g., adaptation, fine-tuning, prompt engineering, Retrieval-Augmented Generation).**
 
@@ -92,7 +92,7 @@ After completing this course, students will be able to:
 | **2. Define Generative AI and its key components** | - Introduction to Generative AI<br>- Core technologies: NLP, Neural Networks<br>- Recent breakthroughs in generative models | **Real-world examples**: Impact of ChatGPT on public perception<br>**Proposed storyline**: Transition from traditional AI to generative models<br>**Analogy**: Generative AI as a chef creating new recipes<br>**Links to technical resources**: OpenAI's GPT-3 Paper |
 | **3. Recognize how AI tools generate content** | - Text generation (ChatGPT)<br>- Image creation (DALL-E, Stable Diffusion)<br>- Audio and video synthesis | **Real-world examples**: AI-generated art and music<br>**Proposed storyline**: Exploring AI's creative capabilities<br>**Analogy**: AI as an artist with infinite inspiration<br>**Links to technical resources**: DALL-E demonstrations |
 | **4. Identify and evaluate potential applications across industries** | - AI in finance, healthcare, marketing<br>- Personalization and customer experience<br>- Automation and optimization | **Case studies**: Netflix's recommendation system, Amazon's personalization<br>**Proposed storyline**: Industry transformations via AI<br>**Links to technical resources**: Industry-specific AI use cases |
-| **5. Analyze the strengths and limitations of Generative AI tools** | - Capabilities of models like ChatGPT, DALL-E<br>- Limitations: data bias, lack of understanding | **Real-world examples**: AI generating biased content<br>**Analogy**: AI as a knowledgeable but unwise savant<br>**Links to technical resources**: Articles on AI limitations |
+| **5. Analyze the strengths and limitations of Generative AI tools** | - Capabilities of models like ChatGPT, DALL-E<br>- Limitations: data bias, lack of understanding | **Real-world examples**: AI generating biased content<br>**Analogy**: AI as a knowledgeable but lacking common sense<br>**Links to technical resources**: Articles on AI limitations |
 | **6. Discuss societal and ethical considerations associated with AI** | - Job displacement risks<br>- Privacy issues (e.g., GDPR compliance)<br>- Ethical considerations: bias, fairness, transparency | **Discussion points**: Future of work in an AI era<br>**Links to technical resources**: GDPR guidelines, ethics in AI |
 | **7. Explore the paradigm shift in AI application development brought about by Foundation models** | - Foundation models significance<br>- Adaptation techniques: fine-tuning, prompt engineering, RAG<br>- Impact on AI development | **Proposed storyline**: New paradigms in AI with foundation models<br>**Links to technical resources**: Papers on foundation models |
 | **8. Develop a strategic framework for integrating Generative AI into their organization** | - Organizational AI readiness<br>- Cultivating AI literacy<br>- Pilot projects and scaling<br>- Change management | **Framework**: AI Adoption Pyramid<br>**Links to technical resources**: AI implementation guides |
